@@ -10,7 +10,8 @@
     
 }
 .table {
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
+ 
 }
 .icons {
     margin: 15px;
@@ -20,9 +21,6 @@
     margin: 15px;
 }
 
-.row {
-    justify-content: space-around; 
-}
 
 .hovereffect {
     
