@@ -1,0 +1,21 @@
+.header-image {
+    background-image: url(“images/headercookingbook.png”);
+    }
+.navbar {
+    margin-right: 50px;
+}
+.img-responsive{
+    width:400px;
+    height: 400px;
+    
+}
+.table {
+    color:whitesmoke
+}
+.icons {
+    margin: 15px;
+}
+
+.icons svg {
+    margin: 15px;
+}
