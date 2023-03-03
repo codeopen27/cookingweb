@@ -1,6 +1,28 @@
 .header-image {
     background-image: url(“images/headercookingbook.png”);
     }
+    
+       .design {
+            background-color: #7EBB78;
+        }
+          a:link {
+            color: #DFD12C;
+        }
+        a:hover {
+            color: #DFD12C;
+        }
+          a:visited {
+            color: #DFD12C;
+        }
+        a:active {
+            color: #DFD12C;
+        }
+          body,td,th {
+            font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+            font-weight: normal;
+        }
+
+
 .navbar {
     margin-right: 50px;
 }
